@@ -87,13 +87,13 @@ de software en Arequipa. Algunos proyectos en producción:
 ### Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoseAlfredoGrados&show_icons=true&hide_border=true&count_private=true&theme=graywhite" alt="Estadísticas" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseAlfredoGrados&theme=github_dark" alt="Perfil" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAlfredoGrados&layout=compact&hide_border=true&count_private=true&theme=graywhite" alt="Lenguajes más usados" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoseAlfredoGrados&theme=github_dark" alt="Lenguajes por repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoseAlfredoGrados&theme=github_dark" alt="Lenguajes por commits" />
 </p>
-
 ---
 
 ### Contacto
