@@ -84,18 +84,6 @@ de software en Arequipa. Algunos proyectos en producción:
 
 ---
 
-### Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoseAlfredoGrados&theme=github_dark" alt="Perfil" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoseAlfredoGrados&theme=github_dark" alt="Lenguajes por repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoseAlfredoGrados&theme=github_dark" alt="Lenguajes por commits" />
-</p>
----
-
 ### Contacto
 
 - 📧 **Email:** josegradosBv@gmail.com
